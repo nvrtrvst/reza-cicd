@@ -1,0 +1,17 @@
+
+Requirement
+1. Repo kalian harus ada Dockerfile
+2. Harus punya akun docker hub
+
+Event:
+on push master/main
+
+Steps:
+1. Checkout repo
+2. Login ke docker hub
+3. Docker build
+4. Docker push
+
+Twist:
+1. Jangan nge push password ke github
+   Perlu pakai env dan secrets
