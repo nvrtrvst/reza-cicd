@@ -1,11 +1,12 @@
-FROM alpine:golang1.16.5-alpine3.14 as builder
+FROM golang:1.16.5-alpine3.14 as builder
 
 RUN mkdir /app
-COPY .  /app
+COPY . /app
 WORKDIR /app
-RUN make build
+RUN go build -v -o main .
 
 FROM alpine:latest
-RUN mkdir /appWORKDIR /app
+RUN mkdir /app
+WORKDIR /app
 COPY --from=builder /app/main /app/
 CMD ["/app/main"]
