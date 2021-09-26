@@ -1,0 +1,220 @@
+[2021-09-26 03:54:59Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO HostContext] Well known config file 'Credentials': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials'
+[2021-09-26 03:54:59Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2021-09-26 03:54:59Z INFO Listener] RuntimeInformation: Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021.
+[2021-09-26 03:54:59Z INFO Listener] Version: 2.283.1
+[2021-09-26 03:54:59Z INFO Listener] Commit: e6baf0d2755bc747d0eb58f24941e273d16c6524
+[2021-09-26 03:54:59Z INFO Listener] Culture: 
+[2021-09-26 03:54:59Z INFO Listener] UI Culture: 
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO Listener] Validating directory permissions for: '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO CommandLineParser] Parse
+[2021-09-26 03:54:59Z INFO CommandLineParser] Parsing 5 args
+[2021-09-26 03:54:59Z INFO CommandLineParser] parsing argument
+[2021-09-26 03:54:59Z INFO CommandLineParser] HasArgs: False
+[2021-09-26 03:54:59Z INFO CommandLineParser] Adding Command: configure
+[2021-09-26 03:54:59Z INFO CommandLineParser] parsing argument
+[2021-09-26 03:54:59Z INFO CommandLineParser] HasArgs: True
+[2021-09-26 03:54:59Z INFO CommandLineParser] arg: url
+[2021-09-26 03:54:59Z INFO CommandLineParser] parsing argument
+[2021-09-26 03:54:59Z INFO CommandLineParser] HasArgs: True
+[2021-09-26 03:54:59Z INFO CommandLineParser] Adding option 'url': 'https://github.com/rezamakbar/reza-cicd'
+[2021-09-26 03:54:59Z INFO CommandLineParser] parsing argument
+[2021-09-26 03:54:59Z INFO CommandLineParser] HasArgs: True
+[2021-09-26 03:54:59Z INFO CommandLineParser] arg: token
+[2021-09-26 03:54:59Z INFO CommandLineParser] parsing argument
+[2021-09-26 03:54:59Z INFO CommandLineParser] HasArgs: True
+[2021-09-26 03:54:59Z INFO CommandLineParser] Adding option 'token': '***'
+[2021-09-26 03:54:59Z INFO Listener] Arguments parsed
+[2021-09-26 03:54:59Z INFO Runner] ExecuteCommand
+[2021-09-26 03:54:59Z INFO ConfigurationStore] currentAssemblyLocation: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin/Runner.Listener.dll
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO ConfigurationStore] binPath: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO ConfigurationStore] RootFolder: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO HostContext] Well known config file 'Runner': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.runner'
+[2021-09-26 03:54:59Z INFO ConfigurationStore] ConfigFilePath: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.runner
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO HostContext] Well known config file 'Credentials': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials'
+[2021-09-26 03:54:59Z INFO ConfigurationStore] CredFilePath: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO HostContext] Well known config file 'MigratedCredentials': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_migrated'
+[2021-09-26 03:54:59Z INFO ConfigurationStore] MigratedCredFilePath: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_migrated
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:54:59Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:54:59Z INFO HostContext] Well known config file 'Service': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.service'
+[2021-09-26 03:54:59Z INFO ConfigurationStore] ServiceConfigFilePath: /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.service
+[2021-09-26 03:54:59Z INFO CommandSettings] Flag 'help': 'False'
+[2021-09-26 03:54:59Z INFO CommandSettings] Flag 'version': 'False'
+[2021-09-26 03:54:59Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-09-26 03:54:59Z INFO CommandSettings] Flag 'check': 'False'
+[2021-09-26 03:54:59Z INFO CommandSettings] Command 'configure': 'True'
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE: |                       
+[2021-09-26 03:54:59Z INFO Terminal] WRITE: Self-hosted runner registration
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE:                         |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-09-26 03:54:59Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-09-26 03:54:59Z INFO ConfigurationManager] ConfigureAsync
+[2021-09-26 03:54:59Z INFO ConfigurationStore] IsConfigured()
+[2021-09-26 03:54:59Z INFO ConfigurationStore] IsConfigured: False
+[2021-09-26 03:54:59Z INFO ConfigurationManager] Is configured: False
+[2021-09-26 03:54:59Z INFO CommandSettings] Arg 'url': 'https://github.com/rezamakbar/reza-cicd'
+[2021-09-26 03:54:59Z INFO CommandSettings] Remove url from Arg dictionary.
+[2021-09-26 03:54:59Z INFO CommandSettings] Arg 'token': '***'
+[2021-09-26 03:54:59Z INFO CommandSettings] Remove token from Arg dictionary.
+[2021-09-26 03:55:01Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2021-09-26 03:55:01Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2021-09-26 03:55:01Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-09-26 03:55:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-09-26 03:55:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-09-26 03:55:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-09-26 03:55:01Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-09-26 03:55:01Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-09-26 03:55:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-09-26 03:55:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-09-26 03:55:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-09-26 03:55:03Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:55:03Z INFO ConfigurationManager] Test Connection complete.
+[2021-09-26 03:55:03Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:55:03Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:55:03Z INFO HostContext] Well known config file 'RSACredentials': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams'
+[2021-09-26 03:55:03Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2021-09-26 03:55:03Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams
+[2021-09-26 03:55:03Z INFO RSAFileKeyManager] Which: 'chmod'
+[2021-09-26 03:55:03Z INFO RSAFileKeyManager] Location: '/usr/bin/chmod'
+[2021-09-26 03:55:03Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:55:03Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper] Starting process:
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   File name: '/usr/bin/chmod'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Arguments: '600 /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Working directory: '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper] Updated oom_score_adj to 500 for PID: 146.
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper] Process started with process id 146, waiting for process exit.
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-09-26 03:55:03Z INFO ProcessInvokerWrapper] Finished process 146 with exit code 0, and elapsed time 00:00:00.0112360.
+[2021-09-26 03:55:03Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams
+[2021-09-26 03:55:04Z INFO CommandSettings] Arg 'runnergroup': ''
+[2021-09-26 03:55:04Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-09-26 03:55:04Z INFO PromptManager] ReadValue
+[2021-09-26 03:55:04Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2021-09-26 03:55:04Z INFO Terminal] WRITE: [press Enter for Default] 
+[2021-09-26 03:55:04Z INFO Terminal] READ LINE
+[2021-09-26 03:55:10Z INFO Terminal] Read value: ''
+[2021-09-26 03:55:10Z INFO PromptManager] Falling back to the default: 'Default'
+[2021-09-26 03:55:10Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:55:10Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2021-09-26 03:55:10Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2021-09-26 03:55:10Z INFO CommandSettings] Arg 'name': ''
+[2021-09-26 03:55:10Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-09-26 03:55:10Z INFO PromptManager] ReadValue
+[2021-09-26 03:55:10Z INFO Terminal] WRITE: Enter the name of runner: 
+[2021-09-26 03:55:10Z INFO Terminal] WRITE: [press Enter for RezaMuhammad] 
+[2021-09-26 03:55:10Z INFO Terminal] READ LINE
+[2021-09-26 03:55:14Z INFO Terminal] Read value: ''
+[2021-09-26 03:55:14Z INFO PromptManager] Falling back to the default: 'RezaMuhammad'
+[2021-09-26 03:55:14Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:55:14Z INFO CommandSettings] Arg 'labels': ''
+[2021-09-26 03:55:14Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-09-26 03:55:14Z INFO PromptManager] ReadValue
+[2021-09-26 03:55:14Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Linux', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2021-09-26 03:55:14Z INFO Terminal] WRITE: [press Enter to skip] 
+[2021-09-26 03:55:14Z INFO Terminal] READ LINE
+[2021-09-26 03:55:19Z INFO Terminal] Read value: ''
+[2021-09-26 03:55:19Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:55:19Z INFO ConfigurationStore] Saving OAuth credential @ /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials
+[2021-09-26 03:55:19Z INFO ConfigurationStore] Credentials Saved.
+[2021-09-26 03:55:19Z INFO ConfigurationStore] HasCredentials()
+[2021-09-26 03:55:19Z INFO ConfigurationStore] stored True
+[2021-09-26 03:55:19Z INFO CredentialManager] GetCredentialProvider
+[2021-09-26 03:55:19Z INFO CredentialManager] Creating type OAuth
+[2021-09-26 03:55:19Z INFO CredentialManager] Creating credential type: OAuth
+[2021-09-26 03:55:19Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams
+[2021-09-26 03:55:20Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-09-26 03:55:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-09-26 03:55:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-09-26 03:55:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-09-26 03:55:20Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-09-26 03:55:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-09-26 03:55:20Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-09-26 03:55:20Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-09-26 03:55:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-09-26 03:55:21Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 072d039a-b625-4dec-9a0f-0303dbd285f3
+ActivityId: e93763ab-f4dc-408d-bd1c-e01043d8b19a
+X-TFS-Session: a10162e6-82b6-458c-8de8-2d3763ed509e
+X-VSS-E2EID: 44b8bd7e-15e0-45e2-9ff4-48882a84b83f
+X-VSS-SenderDeploymentId: 1139089e-89fd-ce7a-6851-1ac6328a300e
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: C2285ADFD15145F6BC5DCCFCD622889B Ref B: SGEEDGE0619 Ref C: 2021-09-26T03:55:12Z
+Date: Sun, 26 Sep 2021 03:55:11 GMT
+
+[2021-09-26 03:55:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams
+[2021-09-26 03:55:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/.credentials_rsaparams
+[2021-09-26 03:55:21Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-09-26 03:55:21Z INFO CommandSettings] Arg 'work': ''
+[2021-09-26 03:55:21Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-09-26 03:55:21Z INFO PromptManager] ReadValue
+[2021-09-26 03:55:21Z INFO Terminal] WRITE: Enter name of work folder: 
+[2021-09-26 03:55:21Z INFO Terminal] WRITE: [press Enter for _work] 
+[2021-09-26 03:55:21Z INFO Terminal] READ LINE
+[2021-09-26 03:55:25Z INFO Terminal] Read value: ''
+[2021-09-26 03:55:25Z INFO PromptManager] Falling back to the default: '_work'
+[2021-09-26 03:55:25Z INFO ConfigurationStore] Saving runner settings.
+[2021-09-26 03:55:25Z INFO ConfigurationStore] Settings Saved.
+[2021-09-26 03:55:25Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:55:25Z INFO Terminal] WRITE LINE: 
+[2021-09-26 03:55:25Z INFO SystemDControlManager] Service name 'actions.runner.rezamakbar-reza-cicd.RezaMuhammad.service' display name 'GitHub Actions Runner (rezamakbar-reza-cicd.RezaMuhammad)' will be used for service configuration.
+[2021-09-26 03:55:25Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:55:25Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:55:25Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:55:25Z INFO HostContext] Well known directory 'Bin': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/bin'
+[2021-09-26 03:55:25Z INFO HostContext] Well known directory 'Root': '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:55:25Z INFO UnixUtil] Which: 'chmod'
+[2021-09-26 03:55:25Z INFO UnixUtil] Location: '/usr/bin/chmod'
+[2021-09-26 03:55:25Z INFO UnixUtil] Running /usr/bin/chmod 755 "/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/svc.sh"
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper] Starting process:
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   File name: '/usr/bin/chmod'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Arguments: '755 "/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner/svc.sh"'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Working directory: '/mnt/c/Users/reza/go/src/materi-rakamin/ci-cd/actions-runner'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper] Updated oom_score_adj to 500 for PID: 153.
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper] Process started with process id 153, waiting for process exit.
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2021-09-26 03:55:25Z INFO ProcessInvokerWrapper] Finished process 153 with exit code 0, and elapsed time 00:00:00.0073430.
+[2021-09-26 03:55:25Z INFO Listener] Runner execution has finished with return code 0

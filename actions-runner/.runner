@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "RezaMuhammad",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/cuL4zmzH9S6UOBARaQLIlMo1gC3tDWyauzhxI7jq1t4GDwQE4H",
+  "gitHubUrl": "https://github.com/rezamakbar/reza-cicd",
+  "workFolder": "_work"
+}
